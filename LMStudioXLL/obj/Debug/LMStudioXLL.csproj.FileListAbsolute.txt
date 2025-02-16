@@ -1,0 +1,13 @@
+D:\OneDrive - FAAP\LMStudioXLL\LMStudioXLL\LMStudioXLL\bin\Debug\LMStudioXLL.dna
+D:\OneDrive - FAAP\LMStudioXLL\LMStudioXLL\LMStudioXLL\bin\Debug\LMStudioXLL.dll
+D:\OneDrive - FAAP\LMStudioXLL\LMStudioXLL\LMStudioXLL\bin\Debug\LMStudioXLL.pdb
+D:\OneDrive - FAAP\LMStudioXLL\LMStudioXLL\LMStudioXLL\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - FAAP\LMStudioXLL\LMStudioXLL\LMStudioXLL\bin\Debug\ExcelDna.Integration.xml
+D:\OneDrive - FAAP\LMStudioXLL\LMStudioXLL\LMStudioXLL\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - FAAP\LMStudioXLL\LMStudioXLL\LMStudioXLL\obj\Debug\LMStudioXLL.csproj.AssemblyReference.cache
+D:\OneDrive - FAAP\LMStudioXLL\LMStudioXLL\LMStudioXLL\obj\Debug\LMStudioXLL.csproj.CoreCompileInputs.cache
+D:\OneDrive - FAAP\LMStudioXLL\LMStudioXLL\LMStudioXLL\obj\Debug\LMStudio.675F9126.Up2Date
+D:\OneDrive - FAAP\LMStudioXLL\LMStudioXLL\LMStudioXLL\obj\Debug\LMStudioXLL.dll
+D:\OneDrive - FAAP\LMStudioXLL\LMStudioXLL\LMStudioXLL\obj\Debug\LMStudioXLL.pdb
+D:\OneDrive - FAAP\LMStudioXLL\LMStudioXLL\LMStudioXLL\bin\Debug\Microsoft.Office.Tools.Common.dll
+D:\OneDrive - FAAP\LMStudioXLL\LMStudioXLL\LMStudioXLL\bin\Debug\Microsoft.Office.Tools.Excel.dll
